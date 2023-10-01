@@ -1,0 +1,2 @@
+# Multiclass-classification-of-Lung-diseases-using-Deep learning
+ developed a custom CNN achieving 91% accuracy, high precision, and F1 score. This CNN aids early disease diagnosis, benefitting both doctors and patients. It serves as a pre-diagnosis tool for timely treatment or isolation, while also prioritizing patients during outbreaks. This innovative solution enhances healthcare efficiency and supports quick response to sudden outbreaks, ensuring limited resources are allocated effectively.
